@@ -7,6 +7,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -26,6 +27,9 @@ Users should be able to:
 ### Screenshot
 
 ![](./assets/screenshots/result%20summary.png)
+
+### Links
+- Live Site URL: [results-summary-component](https://ko-results-summary-component.netlify.app/)
 
 
 ## My process
